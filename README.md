@@ -15,5 +15,5 @@ Note that the minSdkVersion must be 16
 
 dependencies {
    ...
-   implementation 'com.github.AndroThink:Peach:1.0.0'
+   implementation 'com.github.AndroThink:Peach:1.0.2'
 }
